@@ -6,5 +6,6 @@
 
 ![revieww 1](https://user-images.githubusercontent.com/24354705/45464794-7aa92580-b712-11e8-986b-38242fe050e5.jpg)
 
-
-![rsz_1rsz_1revieww_3](https://user-images.githubusercontent.com/24354705/45465430-73374b80-b715-11e8-8afa-8dedf50f3512.jpg)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/24354705/45465430-73374b80-b715-11e8-8afa-8dedf50f3512.jpg">
+</p>
