@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "120133050698",
+    "firebase_url": "https://cms-task.firebaseio.com",
+    "project_id": "cms-task",
+    "storage_bucket": "cms-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120133050698:android:b343086cfe8e8d53",
+        "android_client_info": {
+          "package_name": "com.example.aya.cmstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120133050698-u1s6q07vhie8og4mlqjlq2oucgn10nok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsqTTPy45Y-gdY1W50-6F-calAjoR5_Q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
