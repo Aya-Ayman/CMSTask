@@ -1,4 +1,4 @@
-# CMSTask
+# CMS-Task
 * It's a single activity in which you can upload up to six images that you capture using the mobile's camera to firebase. A progress dialog will be displayed until the process is finished.
 * After each successful upload request a toast will be shown to confirm that and after the six images are completely uploaded, an alert dialog will be shown confirming that.
 * If the upload request has failed due to unavailability of internet connection you will notified by an alert dialog.
